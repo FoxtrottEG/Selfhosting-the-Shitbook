@@ -4,12 +4,17 @@ Self hosted Backup and synchronization solution for Images,Notes and CVs
 # Prerequisites
 
 Computer with 
+
 min. 2gb ram, recommended 4gb
+
 CPU with min 2 cores at 1.6 GHz
+
 Storage minimum 20gb recommended 100 
+
 recommended as Jelly-fin requires a decent amount of storage due to it being a Image and video hosting service
 
 An internet connection
+
 A Tail-scale account
 
 
